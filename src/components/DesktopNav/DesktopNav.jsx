@@ -5,8 +5,8 @@ const DesktopNav = () => (
     <NovaStackLogo />
     
     <div className="flex items-center gap-8">
-      <a href="features" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
-        Features
+      <a href="/" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
+        Home
       </a>
       <a href="services" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
         Services
