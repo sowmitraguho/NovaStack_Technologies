@@ -79,6 +79,7 @@ const FooterSection = () => {
             </div>
 
             {/* Links Sections */}
+            
             <div>
               <h4 className="font-semibold text-slate-100 mb-6 text-sm uppercase tracking-wide">Product</h4>
               <ul className="space-y-4">

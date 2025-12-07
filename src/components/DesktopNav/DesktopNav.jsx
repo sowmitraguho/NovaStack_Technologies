@@ -5,16 +5,16 @@ const DesktopNav = () => (
     <NovaStackLogo />
     
     <div className="flex items-center gap-8">
-      <a href="#features" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
+      <a href="features" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
         Features
       </a>
-      <a href="#services" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
+      <a href="services" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
         Services
       </a>
-      <a href="#about" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
+      <a href="about" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
         About
       </a>
-      <a href="#contact" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
+      <a href="contact" className="text-slate-300 hover:text-cyan-400 transition-colors text-sm font-medium">
         Contact
       </a>
     </div>
